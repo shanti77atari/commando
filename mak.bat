@@ -1,0 +1,1 @@
+mads.exe -t -l c.asm -o:c.xex
